@@ -1,0 +1,7 @@
+D:\Anti Skid\ViperCompiler\ViperCompiler\bin\Debug\ViperCompiler.exe.config
+D:\Anti Skid\ViperCompiler\ViperCompiler\bin\Debug\ViperCompiler.exe
+D:\Anti Skid\ViperCompiler\ViperCompiler\bin\Debug\ViperCompiler.pdb
+D:\Anti Skid\ViperCompiler\ViperCompiler\obj\Debug\ViperCompiler.csprojAssemblyReference.cache
+D:\Anti Skid\ViperCompiler\ViperCompiler\obj\Debug\ViperCompiler.csproj.CoreCompileInputs.cache
+D:\Anti Skid\ViperCompiler\ViperCompiler\obj\Debug\ViperCompiler.exe
+D:\Anti Skid\ViperCompiler\ViperCompiler\obj\Debug\ViperCompiler.pdb
